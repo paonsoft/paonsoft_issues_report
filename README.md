@@ -1,2 +1,2 @@
-# paonsoft_issues_report
-A place where to report paonsoft.com issues/bugs
+# Report Paonsoft Issues
+This is a place where you can report paonsoft.com issues/bugs.
